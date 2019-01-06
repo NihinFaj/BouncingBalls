@@ -1,3 +1,5 @@
+Author: David J Barnes
+Refactored by: Nihinlolamiwa Fajemilehin
 Bouncing Balls - a demonstration of graphical output on a Canvas class.
 
 This project is part of the material for the book
